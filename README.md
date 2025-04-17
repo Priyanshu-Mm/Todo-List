@@ -1,31 +1,62 @@
-# React-Todo-List-Application
-A simple and elegant todo list application built with React.js, Tailwind CSS, and JavaScript.* 
+# ✅ ToDo List App
 
-**#Features**
-   1. Add Tasks: Easily add new tasks to your todo list.
-   2. Show Finished Tasks: View completed tasks in a separate list.
-   3. Responsive Design: Mobile-friendly layout using Tailwind CSS.
+A sleek and simple ToDo List application built using **ReactJS**, **Tailwind CSS**, and **HTML**. This app lets users add, delete, and manage tasks efficiently with a clean UI and responsive design.
 
-  __#Getting-Started__ 
-        Make sure you have Node.js installed.
+---
 
-    #Installation
-    1. Clone the repository:
-      git clone https://github.com/Priyanshu-Mm/Todo-List.git
-    2. Navigate into the project directory:
-       cd Todo-List
-    3. Install dependencies:
-        npm install
+## 🔗 Live Demo
 
-    #Usage
-    1. Start the development server:
-      npm run dev
-    2. Open your browser and go to http://localhost:5173/ to view the application.
+[Click here to try it out](https://priyanshu-mm.github.io/Todo-List/) <!-- Replace with actual link if hosted -->
 
-   #Built With
-    1. React.js
-    2. Tailwind CSS
-    3. UUID - For generating unique IDs
-    4. React Icons - For adding icons to tasks
+---
 
-   
+## 🚀 Features
+
+- 📌 Add tasks
+- ✅ Mark tasks as done
+- ❌ Delete tasks
+- 📱 Fully responsive UI
+- ⚡ Fast and intuitive experience
+
+---
+
+## 🛠 Tech Stack
+
+- **ReactJS** – Frontend library for building UI
+- **Tailwind CSS** – Utility-first CSS framework
+- **HTML** – Semantic page structure
+
+---
+
+## 📦 Installation & Setup
+
+To run this project locally:
+
+```bash
+git clone https://github.com/Priyanshu-Mm/Todo-List.git
+cd Todo-List
+npm install
+npm start
+
+📁 Folder Structure
+Todo-List/
+├── node_modules/
+├── public/
+│   ├── index.html
+│   └── ...
+├── src/
+│   ├── App.jsx           # Main component
+│   ├── index.js          # Entry point
+│   ├── index.css         # Tailwind CSS import
+│   └── ...
+├── .gitignore
+├── package.json          # Project metadata and dependencies
+├── postcss.config.js     # Tailwind + PostCSS config
+├── tailwind.config.js    # Tailwind setup
+└── README.md
+
+👨‍💻 Author
+Priyanshu Maurya
+📧 mauryapriyanshu91.email@gmail.com
+🔗 GitHub
+```
